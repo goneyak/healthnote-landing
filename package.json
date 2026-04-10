@@ -1,7 +1,12 @@
 {
-  "name": "@figma/my-make-file",
+  "name": "healthnote-landing",
   "private": true,
   "version": "0.0.1",
+  "description": "HealthNote 베타 랜딩 페이지 (Vite + React)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goneyak/healthnote-landing.git"
+  },
   "type": "module",
   "scripts": {
     "build": "vite build",
