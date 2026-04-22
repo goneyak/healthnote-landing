@@ -27,7 +27,7 @@ export function ProblemsSection() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12 max-w-3xl mx-auto">
           <h2 className="text-3xl text-gray-900 leading-snug">
-            부모님 건강을 대신 챙기다 보면,
+            평소 건강을 대신 챙기다 보면,
             <br />
             아래와 같은 상황이 자주 생깁니다.
           </h2>
