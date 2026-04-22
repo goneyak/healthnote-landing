@@ -9,7 +9,7 @@ export function HeroSection() {
           HealthNote 베타 · 성인 자녀·보호자 대상
         </div>
         <h1 className="text-5xl leading-tight text-gray-900 mb-6">
-          부모님 건강정보를
+          건강정보를
           <br />
           PDF 한 부로 정리합니다
         </h1>
